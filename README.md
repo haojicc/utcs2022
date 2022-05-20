@@ -1,5 +1,4 @@
 # utcs2022
-This is the answer we made about the August 2021 Graduate School Entrance Exam for CS in Tokyo University.
 
 ## Problem：
 ### input:array A[i,j]
